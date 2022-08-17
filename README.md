@@ -26,3 +26,9 @@ you can now run:
 ```
 rosrun map_listener mapListener.cpp
 ```
+
+or
+
+```
+rosrun map_listener mapListener.py
+```
